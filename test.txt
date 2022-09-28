@@ -1,1 +1,1 @@
-Hello world first commit to github
+Hello world first commit to git and github.
